@@ -4,3 +4,8 @@
 [kuangbin博客博客园](http://www.cnblogs.com/kuangbin)
 
 [kuangbin新博客](https://kuangbin.github.io/)
+
+# 机器学习
+[cs231n](http://cs231n.stanford.edu/)
+
+[cs229](http://cs229.stanford.edu/)
