@@ -16,3 +16,6 @@
 [Goodfellow](https://www.iangoodfellow.com/)
 
 [一个论文整理的知乎专栏]()
+
+# 社区
+[v2ex](https://www.v2ex.com/)
