@@ -15,7 +15,7 @@
 
 [Goodfellow](https://www.iangoodfellow.com/)
 
-[一个论文整理的知乎专栏]()
+[一个论文整理的知乎专栏](https://zhuanlan.zhihu.com/c_144132079)
 
 # 社区
 [v2ex](https://www.v2ex.com/)
