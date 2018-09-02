@@ -15,6 +15,12 @@
 
 [Goodfellow](https://www.iangoodfellow.com/)
 
+[Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
+
+[Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
+
+[Robust-and-Explainable-machine-learning](https://github.com/dongyp13/Robust-and-Explainable-Machine-Learning)
+
 [一个论文整理的知乎专栏](https://zhuanlan.zhihu.com/c_144132079)
 
 # 社区
