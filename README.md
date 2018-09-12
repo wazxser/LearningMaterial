@@ -27,3 +27,5 @@
 
 # 社区
 [v2ex](https://www.v2ex.com/)
+
+[kaggle](https://www.kaggle.com/)
