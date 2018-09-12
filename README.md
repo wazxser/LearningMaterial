@@ -10,6 +10,8 @@
 
 [cs229](http://cs229.stanford.edu/)
 
+[tensorflow入门教程](https://www.youtube.com/playlist?reload=9&list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ)
+
 # 对抗样本
 [cleverhas](http://www.cleverhans.io/)
 
