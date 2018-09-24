@@ -10,6 +10,8 @@
 
 [cs229](http://cs229.stanford.edu/)
 
+[cs229作业python版](https://github.com/dibgerge/ml-coursera-python-assignments)
+
 [tensorflow入门教程](https://www.youtube.com/playlist?reload=9&list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ)
 
 # 对抗样本
