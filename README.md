@@ -14,6 +14,8 @@
 
 [tensorflow入门教程](https://www.youtube.com/playlist?reload=9&list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ)
 
+[西瓜书](https://blog.csdn.net/icefire_tyh/article/details/52064910)
+
 # 对抗样本
 [cleverhas](http://www.cleverhans.io/)
 
