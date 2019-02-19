@@ -34,5 +34,8 @@
 
 [kaggle](https://www.kaggle.com/)
 
+# 看看
+https://www.jianshu.com/p/c3c921dca07b
+
 # 其他
 [MSDN我告诉你](https://msdn.itellyou.cn/)
