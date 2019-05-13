@@ -1,6 +1,10 @@
 # Paper
 [Optimization and Abstraction: A Synergistic Approach for Analyzing Neural Network Robustness](https://arxiv.org/abs/1904.09959)
 
+[Guiding Deep Learning System Testing using Surprise Adequacy](https://arxiv.org/abs/1808.08444)
+
+[Adversarial Sample Detection for Deep Neural Network through Model Mutation Testing](https://arxiv.org/abs/1812.05793)
+
 # ACM
 [ACM入门知乎回答](https://www.zhihu.com/question/51727516)
 
