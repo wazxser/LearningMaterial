@@ -5,6 +5,8 @@
 
 [Adversarial Sample Detection for Deep Neural Network through Model Mutation Testing](https://arxiv.org/abs/1812.05793)
 
+[On Calibration of Modern Neural Networks](https://arxiv.org/abs/1706.04599)
+
 # ACM
 [ACM入门知乎回答](https://www.zhihu.com/question/51727516)
 
